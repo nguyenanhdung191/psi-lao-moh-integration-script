@@ -1,8 +1,11 @@
 {
+
     "psi": {
         "baseUrl": "https://sandbox.psi-mis.org",
         "username": "username",
-        "password": "password"
+        "password": "password",
+        "startDate": "2017-09-16",
+        "endDate": "2017-10-16"
     },
 
     "hmis": {
