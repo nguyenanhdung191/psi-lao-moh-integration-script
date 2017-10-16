@@ -5,7 +5,7 @@ const {
     transform,
     filterStatus,
     pushData,
-    updateStatus,
+    updateStatus
 } = require("./utils.js");
 
 
