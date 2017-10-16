@@ -1,14 +1,14 @@
 {
     "psi": {
         "baseUrl": "https://sandbox.psi-mis.org",
-        "username": "dung",
-        "password": "ABCD1234"
+        "username": "username",
+        "password": "password"
     },
 
     "hmis": {
-        "baseUrl": "https://192.168.1.21/lao1",
-        "username": "dung",
-        "password": "ABCD1234"
+        "baseUrl": "http://localhost",
+        "username": "username",
+        "password": "password"
     },
 
     "program": {
