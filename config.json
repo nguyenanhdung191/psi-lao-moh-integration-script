@@ -3,12 +3,12 @@
         "baseUrl": "https://sandbox.psi-mis.org",
         "username": "username",
         "password": "password",
-        "startDate": "2017-09-16",
-        "endDate": "2017-10-16"
+        "startDate": "2017-09-17",
+        "endDate": "2017-10-17"
     },
 
     "hmis": {
-        "baseUrl": "http://localhost",
+        "baseUrl": "http://116.118.104.150:8888",
         "username": "username",
         "password": "password"
     },

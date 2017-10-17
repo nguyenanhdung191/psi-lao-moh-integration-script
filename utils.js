@@ -45,7 +45,7 @@ const transform = (cases) => {
         let event = {
             event: c["event"],
             eventDate: c["eventDate"],
-            orgUnit: "tHOwpzCvGkC", //Hardcoded, because there are no mapping ou on hmis server
+            orgUnit: c["orgUnit"],
             program: program[c["program"]],
             programStage: programStage[c["programStage"]],
             dataValues: []
@@ -88,7 +88,6 @@ const updateStatus = async(res, data) => {
         }
         payload.events.push(data[index]);
     })
-    console.log(JSON.stringify(payload));
     await fetch(psi.baseUrl + "/api/events", {
             method: 'POST',
             headers: {
