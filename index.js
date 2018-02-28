@@ -1,6 +1,7 @@
 const jsonfile = require("jsonfile");
 const { startDate, endDate } = require("./config.json").psi;
 const {
+    getOrgs,
     getEvents,
     transform,
     filterStatus,
@@ -10,11 +11,12 @@ const {
 
 
 
-(async() => {
+(async () => {
 
     let data = await getEvents(startDate, endDate);
-    let pendingData = filterStatus(data, "Pendding");
-    let pushD = transform(pendingData);
+    let orgs = await getOrgs();
+    let pendingData = filterStatus(data, "Synced");
+    let pushD = transform(pendingData, orgs);
     let response = await pushData(pushD);
     updateStatus(response, pendingData);
 })()

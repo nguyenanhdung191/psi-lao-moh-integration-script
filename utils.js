@@ -17,14 +17,29 @@ const createAuthenticationHeader = (username, password) => {
     return "Basic " + new Buffer(username + ":" + password).toString("base64");
 };
 
-const getEvents = async(startDate, endDate) => {
+const getOrgs = async () => {
+    let result = await fetch(`${psi.baseUrl}/api/organisationUnits.json?filter=ancestors.id:eq:ahlcUyvOgQT&fields=id,name,displayName,attributeValues&paging=false`, {
+        headers: {
+            "Content-Type": "application/json",
+            Authorization: createAuthenticationHeader(psi.username, psi.password)
+        }
+    })
+        .then(function (res) {
+            return res;
+        });
+
+    let json = await result.json();
+    return json;
+}
+
+const getEvents = async (startDate, endDate) => {
     let result = await fetch(`${psi.baseUrl}/api/events.json?program=RjBwXyc5I66&startDate=${startDate}&endDate=${endDate}&skipPaging=true`, {
-            headers: {
-                "Content-Type": "application/json",
-                Authorization: createAuthenticationHeader(psi.username, psi.password)
-            }
-        })
-        .then(function(res) {
+        headers: {
+            "Content-Type": "application/json",
+            Authorization: createAuthenticationHeader(psi.username, psi.password)
+        }
+    })
+        .then(function (res) {
             return res;
         });
 
@@ -36,16 +51,19 @@ const filterStatus = (data, status) => {
     return data.events.filter((x) => x.dataValues.find((y) => y.value == `${status}`));
 };
 
-const transform = (cases) => {
+const transform = (cases, orgs) => {
     let payload = {
         events: []
     };
 
     cases.forEach(c => {
+
+        let orgsCode = orgs.organisationUnits.find(x => x.id == c["orgUnit"]).attributeValues[0].value;
         let event = {
             event: c["event"],
             eventDate: c["eventDate"],
-            orgUnit: c["orgUnit"],
+            // orgUnit: c["orgUnit"],
+            orgUnit: (orgsCode) ? orgsCode : c["orgUnit"],
             program: program[c["program"]],
             programStage: programStage[c["programStage"]],
             dataValues: []
@@ -65,7 +83,7 @@ const transform = (cases) => {
     return payload;
 };
 
-const updateStatus = async(res, data) => {
+const updateStatus = async (res, data) => {
 
     let payload = {
         events: []
@@ -89,14 +107,14 @@ const updateStatus = async(res, data) => {
         payload.events.push(data[index]);
     })
     await fetch(psi.baseUrl + "/api/events", {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                Authorization: createAuthenticationHeader(psi.username, psi.password)
-            },
-            body: JSON.stringify(payload)
-        })
-        .then(function(res) {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            Authorization: createAuthenticationHeader(psi.username, psi.password)
+        },
+        body: JSON.stringify(payload)
+    })
+        .then(function (res) {
             return res.json();
         })
         .then(json => {
@@ -104,16 +122,16 @@ const updateStatus = async(res, data) => {
         });
 };
 
-const pushData = async(data) => {
+const pushData = async (data) => {
     let result = await fetch(`${hmis.baseUrl}/api/events`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                Authorization: createAuthenticationHeader(hmis.username, hmis.password)
-            },
-            body: JSON.stringify(data)
-        })
-        .then(function(res) {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            Authorization: createAuthenticationHeader(hmis.username, hmis.password)
+        },
+        body: JSON.stringify(data)
+    })
+        .then(function (res) {
             return res;
         });
     let json = await result.json();
@@ -122,6 +140,7 @@ const pushData = async(data) => {
 };
 
 module.exports = {
+    getOrgs,
     getEvents,
     transform,
     filterStatus,
