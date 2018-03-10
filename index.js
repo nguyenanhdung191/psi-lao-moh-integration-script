@@ -15,7 +15,7 @@ const {
 
     let data = await getEvents(startDate, endDate);
     let orgs = await getOrgs();
-    let pendingData = filterStatus(data, "Synced");
+    let pendingData = filterStatus(data, "Pending");
     let pushD = transform(pendingData, orgs);
     let response = await pushData(pushD);
     updateStatus(response, pendingData);
