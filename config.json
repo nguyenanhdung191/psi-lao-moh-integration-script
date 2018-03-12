@@ -3,12 +3,12 @@
         "baseUrl": "https://sandbox.psi-mis.org",
         "username": "username",
         "password": "password",
-        "startDate": "2017-09-17",
-        "endDate": "2017-10-17"
+        "startDate": "2017-08-10",
+        "endDate": "2017-08-12"
     },
 
     "hmis": {
-        "baseUrl": "http://116.118.104.150:8888",
+        "baseUrl": "https://hispvn.org/hmislao27",
         "username": "username",
         "password": "password"
     },

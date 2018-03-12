@@ -89,6 +89,12 @@ const updateStatus = async (res, data) => {
         events: []
     };
 
+    if (res.response.importSummaries == null || res.response.importSummaries.length < 1) {
+        console.log("Something go wrong! The reason may be NO 'Pending Event' from source side or can't push events to destination!");
+        console.log(JSON.stringify(res));
+        return;
+    }
+
     res.response.importSummaries.forEach((re, index) => {
 
         let status = data[index].dataValues.find((x) => x.dataElement == `MLbNyweMihi`);
@@ -123,7 +129,7 @@ const updateStatus = async (res, data) => {
 };
 
 const pushData = async (data) => {
-    let result = await fetch(`${hmis.baseUrl}/api/events`, {
+    let result = await fetch(`${hmis.baseUrl}/api/events?orgUnitIdScheme=CODE`, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
