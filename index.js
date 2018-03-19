@@ -1,5 +1,5 @@
 const jsonfile = require("jsonfile");
-const { startDate, endDate } = require("./config.json").psi;
+const { sinceDays } = require("./config.json").psi;
 const {
     getOrgs,
     getEvents,
@@ -9,9 +9,11 @@ const {
     updateStatus
 } = require("./utils.js");
 
-
+const moment = require("moment");
 
 (async () => {
+    const startDate = moment().subtract(sinceDays, 'days').format("YYYY-MM-DD");
+    const endDate = moment().format("YYYY-MM-DD");
 
     let data = await getEvents(startDate, endDate);
     let orgs = await getOrgs();
@@ -21,3 +23,4 @@ const {
     updateStatus(response, pendingData);
 
 })()
+
