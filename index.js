@@ -22,6 +22,5 @@ const moment = require("moment");
     let pushD = transform(pendingData, orgs);
     let response = await pushData(pushD);
     updateStatus(response, pendingData);
-
 })()
 

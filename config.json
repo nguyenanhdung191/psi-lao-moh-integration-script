@@ -1,15 +1,15 @@
 {
     "psi": {
         "baseUrl": "https://sandbox.psi-mis.org",
-        "username": "dung",
-        "password": "ABCD1234",
-        "sinceDays": 400
+        "username": "username",
+        "password": "password",
+        "sinceDays": 20
     },
 
     "hmis": {
         "baseUrl": "https://hispvn.org/hmislao27",
-        "username": "hoang",
-        "password": "ABCD@1234"
+        "username": "username",
+        "password": "password"
     },
 
     "program": {
