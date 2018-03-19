@@ -12,6 +12,7 @@ const {
 const moment = require("moment");
 
 (async () => {
+
     const startDate = moment().subtract(sinceDays, 'days').format("YYYY-MM-DD");
     const endDate = moment().format("YYYY-MM-DD");
 

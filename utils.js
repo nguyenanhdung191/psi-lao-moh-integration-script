@@ -18,7 +18,7 @@ const createAuthenticationHeader = (username, password) => {
 };
 
 const getOrgs = async () => {
-    let result = await fetch(`${psi.baseUrl}/api/organisationUnits.json?filter=ancestors.id:eq:ahlcUyvOgQT&fields=id,name,displayName,attributeValues&paging=false`, {
+    let result = await fetch(`${psi.baseUrl}/api/organisationUnitGroups.json?filter=id:in:[mXIq7sgxHha,G4vrSSvTno8]&fields=organisationUnits[id,name,displayName,attributeValues]&paging=false`, {
         headers: {
             "Content-Type": "application/json",
             Authorization: createAuthenticationHeader(psi.username, psi.password)
@@ -27,9 +27,14 @@ const getOrgs = async () => {
         .then(function (res) {
             return res;
         });
-
     let json = await result.json();
-    return json;
+    let payload = {
+        organisationUnits: []
+    };
+    json.organisationUnitGroups.forEach((value, key) => {
+        payload.organisationUnits = payload.organisationUnits.concat(value.organisationUnits);
+    })
+    return payload;
 }
 
 const getEvents = async (startDate, endDate) => {
@@ -58,7 +63,10 @@ const transform = (cases, orgs) => {
 
     cases.forEach(c => {
 
-        let orgsCode = orgs.organisationUnits.find(x => x.id == c["orgUnit"]).attributeValues[0].value;
+        let orgsCode = orgs.organisationUnits.find(x => x.id == c["orgUnit"]);
+        if (orgsCode != null) {
+            orgsCode = orgsCode.attributeValues[0].value;
+        }
         let event = {
             event: c["event"],
             eventDate: c["eventDate"],
