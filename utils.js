@@ -64,14 +64,19 @@ const transform = (cases, orgs) => {
     cases.forEach(c => {
 
         let orgsCode = orgs.organisationUnits.find(x => x.id == c["orgUnit"]);
+        let districtCodePPM = null;
         if (orgsCode != null) {
-            orgsCode = orgsCode.attributeValues[0].value;
+            let attr = orgsCode.attributeValues.find(y => y.attribute.id == "gSL5sQyjxfP");
+            if (attr != null) {
+                districtCodePPM = attr.value;
+            }
         }
+
         let event = {
             event: c["event"],
             eventDate: c["eventDate"],
             // orgUnit: c["orgUnit"],
-            orgUnit: (orgsCode) ? orgsCode : c["orgUnit"],
+            orgUnit: districtCodePPM,
             program: program[c["program"]],
             programStage: programStage[c["programStage"]],
             dataValues: []
@@ -86,13 +91,23 @@ const transform = (cases, orgs) => {
                 event.dataValues.push(dataValue);
             }
         }
-        payload.events.push(event);
+        if (districtCodePPM != null) {
+            payload.events.push(event);
+        } else {
+            // UPDATE unsuitable events
+            let status = c["dataValues"].find((x) => x.dataElement == `MLbNyweMihi`);
+            status["value"] = "Rejected";
+            c["dataValues"].push({
+                dataElement: "hjSIBxruyJA",
+                value: "District Code PPM doesn't exist"
+            });
+        }
     });
     return payload;
 };
 
 const updateStatus = async (res, data) => {
-
+    console.log(JSON.stringify(res));
     let payload = {
         events: []
     };
@@ -105,20 +120,22 @@ const updateStatus = async (res, data) => {
 
     res.response.importSummaries.forEach((re, index) => {
 
-        let status = data[index].dataValues.find((x) => x.dataElement == `MLbNyweMihi`);
+        let event = data.find(x => x.event == re.reference);
+        if (event == null) return;
+        let status = event.dataValues.find((x) => x.dataElement == `MLbNyweMihi`);
         status["value"] = (re.status == "SUCCESS") ? "Synced" : "Rejected";
         if (status["value"] === "Synced") {
-            data[index].dataValues.push({
+            event.dataValues.push({
                 dataElement: "N5B5r1okTqq",
                 value: moment().format("YYYY-MM-DDTHH:mm:ss")
             });
         } else {
-            data[index].dataValues.push({
+            event.dataValues.push({
                 dataElement: "hjSIBxruyJA",
                 value: re.description
             });
         }
-        payload.events.push(data[index]);
+        payload.events.push(event);
     })
     await fetch(psi.baseUrl + "/api/events", {
         method: 'POST',
