@@ -18,7 +18,7 @@ const createAuthenticationHeader = (username, password) => {
 };
 
 const getOrgs = async () => {
-    let result = await fetch(`${psi.baseUrl}/api/organisationUnitGroups.json?filter=id:in:[mXIq7sgxHha,G4vrSSvTno8]&fields=organisationUnits[id,name,displayName,attributeValues]&paging=false`, {
+    let result = await fetch(`${psi.baseUrl}/api/organisationUnitGroups.json?filter=id:in:[ENiurh9udP5]&fields=organisationUnits[id,name,displayName,attributeValues,coordinates]&paging=false`, {
         headers: {
             "Content-Type": "application/json",
             Authorization: createAuthenticationHeader(psi.username, psi.password)
@@ -72,10 +72,14 @@ const transform = (cases, orgs) => {
             }
         }
 
+        var coordinates = JSON.parse(orgsCode["coordinates"]);
+
         let event = {
             event: c["event"],
             eventDate: c["eventDate"],
             // orgUnit: c["orgUnit"],
+            coordinate: {latitude: coordinates[1],
+                         longitude: coordinates[0]},
             orgUnit: districtCodePPM,
             program: program[c["program"]],
             programStage: programStage[c["programStage"]],
