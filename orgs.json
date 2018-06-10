@@ -1,0 +1,4062 @@
+{
+  "organisationUnits": [
+    {
+      "level": 6,
+      "name": "PH ສຸກສາຄອນ (LAMAL160212)",
+      "id": "BQCjX5WJ7Mj",
+      "displayName": "PH ສຸກສາຄອນ (LAMAL160212)",
+      "coordinates": "[105.80299,15.35449]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງຄຳ (LAMAL160412)",
+      "id": "dqTY0vnGuh0",
+      "displayName": "PH ແສງຄຳ (LAMAL160412)",
+      "coordinates": "[106.21599,15.18329]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ນວນຕາ (LAMAL131307)",
+      "id": "tfhXNflK5O3",
+      "displayName": "PH ນວນຕາ (LAMAL131307)",
+      "coordinates": "[105.33679,16.83748]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງສີ (LAMAL160509)",
+      "id": "TW86Nl6HjGt",
+      "displayName": "PH ທອງສີ (LAMAL160509)",
+      "coordinates": "[105.97654,14.79502]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນທະລັງສີ (LAMAL130230)",
+      "id": "oNdNBUnKUAA",
+      "displayName": "CL ດຣ ບຸນທະລັງສີ (LAMAL130230)",
+      "coordinates": "[105.02905,16.68415]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມະນີວັນ ໂອສົດ (LAMAL130601)",
+      "id": "ewK29nhUQfk",
+      "displayName": "PH ມະນີວັນ ໂອສົດ (LAMAL130601)",
+      "coordinates": "[106.49498,16.37677]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Nong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມພອນ (LAMAL130214)",
+      "id": "xCJcWO8h6nx",
+      "displayName": "PH ສົມພອນ (LAMAL130214)",
+      "coordinates": "[104.96461,16.67806]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸເນດ (LAMAL160414)",
+      "id": "yx6uT2QDO0E",
+      "displayName": "PH ສຸເນດ (LAMAL160414)",
+      "coordinates": "[106.16851,15.19098]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ອອ່ນສີ (LAMAL161009)",
+      "id": "pElqLywczW2",
+      "displayName": "PH ອອ່ນສີ (LAMAL161009)",
+      "coordinates": "[105.89359,14.05154]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ພອນເພັດ (LAMAL140103)",
+      "id": "Hg7zV2RxGbB",
+      "displayName": "CL ພອນເພັດ (LAMAL140103)",
+      "coordinates": "[106.40941,15.71322]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຄຳສວຍ (LAMAL161004)",
+      "id": "vzSpdcNkKWH",
+      "displayName": "CL ດຣ ຄຳສວຍ (LAMAL161004)",
+      "coordinates": "[105.87969,14.08862]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລ່ຽມມີໄຊ (LAMAL140614)",
+      "id": "MRENzzB4Uzd",
+      "displayName": "PH ລ່ຽມມີໄຊ (LAMAL140614)",
+      "coordinates": "[105.76292,15.54052]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນປອນ (LAMAL131309)",
+      "id": "uxqrokW494Y",
+      "displayName": "CL ດຣ ບຸນປອນ (LAMAL131309)",
+      "coordinates": "[105.33929,16.86021]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສຳລານ (LAMAL140402)",
+      "id": "JPza5ddkE1N",
+      "displayName": "CL ດຣ ສຳລານ (LAMAL140402)",
+      "coordinates": "[105.56471,15.98434]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ວັນທາ ກົມມະແຊງ (LAMAL130703)",
+      "id": "czA83fZ01sf",
+      "displayName": "CL ດຣ.ວັນທາ ກົມມະແຊງ (LAMAL130703)",
+      "coordinates": "[105.81392,15.97476]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດຣ ສີທັດ (LAMAL140609)",
+      "id": "l9AC8vGZ4cS",
+      "displayName": "PH ດຣ ສີທັດ (LAMAL140609)",
+      "coordinates": "[105.80912,15.57772]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງຈັນ (LAMAL161014)",
+      "id": "JpjtrSi5O9M",
+      "displayName": "PH ແສງຈັນ (LAMAL161014)",
+      "coordinates": "[105.98728,13.92498]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດວງໃຈ (LAMAL161015)",
+      "id": "rWJdzj9eLsj",
+      "displayName": "PH ດວງໃຈ (LAMAL161015)",
+      "coordinates": "[105.98872,13.92492]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວິໄລສັກ (LAMAL140121)",
+      "id": "qv0v0hckgE3",
+      "displayName": "PH ວິໄລສັກ (LAMAL140121)",
+      "coordinates": "[106.38624,15.71712]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພັນມະລີ (LAMAL160601)",
+      "id": "epXVS8TF99k",
+      "displayName": "PH ພັນມະລີ (LAMAL160601)",
+      "coordinates": "[105.78848,15.09705]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນແສງ (LAMAL160907)",
+      "id": "gjbdZ3CpVl7",
+      "displayName": "PH ບຸນແສງ (LAMAL160907)",
+      "coordinates": "[105.51159,14.36802]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໂຈມມາ (LAMAL130710)",
+      "id": "zCNqkSHRMip",
+      "displayName": "PH ໂຈມມາ (LAMAL130710)",
+      "coordinates": "[105.74307,15.99388]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳມຸ່ງ (LAMAL130228)",
+      "id": "VkAjDL7PEgP",
+      "displayName": "PH ຄຳມຸ່ງ (LAMAL130228)",
+      "coordinates": "[104.98015,16.67429]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມບູນ (LAMAL130812)",
+      "id": "olimv9ZyfWl",
+      "displayName": "PH ສົມບູນ (LAMAL130812)",
+      "coordinates": "[105.38792,16.08478]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຕິກ/ທິບພະຈັນ ໂອສົດ (LAMAL131206)",
+      "id": "fgFTU6JCBoo",
+      "displayName": "PH ຕິກ/ທິບພະຈັນ ໂອສົດ (LAMAL131206)",
+      "coordinates": "[105.70691,17.02564]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນເຖີງ (LAMAL130201)",
+      "id": "eEL9YNi8xmP",
+      "displayName": "CL ດຣ ບຸນເຖີງ (LAMAL130201)",
+      "coordinates": "[104.99996,16.79219]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.227",
+          "created": "2017-12-05T03:52:10.227",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເຂັມເພັດ (LAMAL160209)",
+      "id": "ZlBuheWGMNJ",
+      "displayName": "PH ເຂັມເພັດ (LAMAL160209)",
+      "coordinates": "[105.73229,15.22082]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນເຕີມ (LAMAL160407)",
+      "id": "kc9XFo1shBB",
+      "displayName": "CL ດຣ ບຸນເຕີມ (LAMAL160407)",
+      "coordinates": "[106.23072,15.17779]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງດຳ (LAMAL160816)",
+      "id": "k0pfIEqdYpq",
+      "displayName": "PH ທອງດຳ (LAMAL160816)",
+      "coordinates": "[105.71682,14.68817]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນທະວີ (LAMAL130807)",
+      "id": "mnIR46dsAVA",
+      "displayName": "PH ບຸນທະວີ (LAMAL130807)",
+      "coordinates": "[105.20196,16.23676]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຕຽ່ງຄຳ (LAMAL161016)",
+      "id": "xB4VK8TfPi2",
+      "displayName": "PH ຕຽ່ງຄຳ (LAMAL161016)",
+      "coordinates": "[105.91929,14.10081]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳຜິ່ນ (LAMAL161008)",
+      "id": "KjL8uOvA9Hq",
+      "displayName": "PH ຄຳຜິ່ນ (LAMAL161008)",
+      "coordinates": "[105.89399,14.05234]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມົນທາ (LAMAL160206)",
+      "id": "UwIQblTzvkS",
+      "displayName": "PH ມົນທາ (LAMAL160206)",
+      "coordinates": "[105.82592,15.35635]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ອັກສອນ (LAMAL130218)",
+      "id": "LpLALe48gyT",
+      "displayName": "CL ດຣ ອັກສອນ (LAMAL130218)",
+      "coordinates": "[104.96478,16.67806]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພົງສະຫວັນ (LAMAL130223)",
+      "id": "ZcDemaF0lyj",
+      "displayName": "PH ພົງສະຫວັນ (LAMAL130223)",
+      "coordinates": "[104.00881,16.67805]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳມີ (LAMAL131304)",
+      "id": "D9Yr2mpR15o",
+      "displayName": "PH ຄຳມີ (LAMAL131304)",
+      "coordinates": "[105.32954,16.84794]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຄຳຕັນ (LAMAL130404)",
+      "id": "f6631mwKhsb",
+      "displayName": "CL ດຣ ຄຳຕັນ (LAMAL130404)",
+      "coordinates": "[105.92102,16.57215]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງອຳພອນ (LAMAL160504)",
+      "id": "GTSIKeqxUa0",
+      "displayName": "PH ແສງອຳພອນ (LAMAL160504)",
+      "coordinates": "[105.94944,14.83525]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແກ້ວກອ່ງ (LAMAL160201)",
+      "id": "mKeHpoJpfes",
+      "displayName": "PH ແກ້ວກອ່ງ (LAMAL160201)",
+      "coordinates": "[105.77888,15.34133]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈານໂສມ (LAMAL160808)",
+      "id": "gO3OQoPS5r6",
+      "displayName": "PH ຈານໂສມ (LAMAL160808)",
+      "coordinates": "[105.74251,14.70846]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທະນົງລິດ (LAMAL140108)",
+      "id": "OvbMxzUcroF",
+      "displayName": "PH ທະນົງລິດ (LAMAL140108)",
+      "coordinates": "[106.41033,15.71422]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳກຽນ (LAMAL130715)",
+      "id": "pYunXfcVMKS",
+      "displayName": "PH ຄຳກຽນ (LAMAL130715)",
+      "coordinates": "[105.74385,15.99564]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແຫລ້ເນີຍ (LAMAL160813)",
+      "id": "agEzyW5xdQu",
+      "displayName": "PH ແຫລ້ເນີຍ (LAMAL160813)",
+      "coordinates": "[105.71383,14.68907]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນມີ (LAMAL131301)",
+      "id": "Yp5FKKeCN9h",
+      "displayName": "PH ບຸນມີ (LAMAL131301)",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສະຫວີວັນ (LAMAL160610)",
+      "id": "qLbEdT8hM2Q",
+      "displayName": "PH ສະຫວີວັນ (LAMAL160610)",
+      "coordinates": "[105.58848,15.15451]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳບອນ (LAMAL160302)",
+      "id": "YhC7Ya8tAAg",
+      "displayName": "PH ຄຳບອນ (LAMAL160302)",
+      "coordinates": "[105.87521,15.11341]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສິຕາ (LAMAL130222)",
+      "id": "sD02xFo1Z0z",
+      "displayName": "PH ສິຕາ (LAMAL130222)",
+      "coordinates": "[104.98961,16.67656]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເພັດສີລາ (LAMAL130213)",
+      "id": "BWwXLksKAOD",
+      "displayName": "PH ເພັດສີລາ (LAMAL130213)",
+      "coordinates": "[104.96427,16.67761]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH Khamphet (405_28)",
+      "id": "p4xx1YjV917",
+      "displayName": "PH Khamphet (405_28)",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "PH ອິນຕາ (LAMAL130714)",
+      "id": "qXIGNFeQ9yR",
+      "displayName": "PH ອິນຕາ (LAMAL130714)",
+      "coordinates": "[105.55196,16.23362]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງສີ (LAMAL160410)",
+      "id": "rc2SBhzS5Pt",
+      "displayName": "PH ທອງສີ (LAMAL160410)",
+      "coordinates": "[106.23521,15.17693]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພູມີ (LAMAL130204)",
+      "id": "g5xLhbrmkT5",
+      "displayName": "PH ພູມີ (LAMAL130204)",
+      "coordinates": "[104.99789,16.67926]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລັກກິ້ (LAMAL160203)",
+      "id": "gisNzfHv2AU",
+      "displayName": "PH ລັກກິ້ (LAMAL160203)",
+      "coordinates": "[105.80914,15.38813]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພູຫວັນ (LAMAL160501)",
+      "id": "QMoLhehrkux",
+      "displayName": "PH ພູຫວັນ (LAMAL160501)",
+      "coordinates": "[105.87357,14.63174]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສະທຽນ (LAMAL131202)",
+      "id": "zAYagYRz4Vw",
+      "displayName": "CL ດຣ ສະທຽນ (LAMAL131202)",
+      "coordinates": "[105.95012,16.97223]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມະນີວັນ (LAMAL161005)",
+      "id": "TjWhaQghWLs",
+      "displayName": "PH ມະນີວັນ (LAMAL161005)",
+      "coordinates": "[105.86669,14.11977]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ວົງພະຈັນ ວັນນະຈັກ (LAMAL130806)",
+      "id": "CWe2Lwtlhty",
+      "displayName": "CL ດຣ.ວົງພະຈັນ ວັນນະຈັກ (LAMAL130806)",
+      "coordinates": "[105.19024,16.23794]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH sorsamlane (401_10)",
+      "id": "mBNZ0iPEh3S",
+      "displayName": "PH sorsamlane (401_10)",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "PH alisone (401_07)",
+      "id": "k0teHcf9HCM",
+      "displayName": "PH alisone (401_07)",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "PH ຊັບທະວິ ໂອສົດ (LAMAL140409)",
+      "id": "uUv6PK8aEaT",
+      "displayName": "PH ຊັບທະວິ ໂອສົດ (LAMAL140409)",
+      "coordinates": "[105.56471,15.98434]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳໃບ (LAMAL161011)",
+      "id": "NUuCmEc07Fh",
+      "displayName": "PH ຄຳໃບ (LAMAL161011)",
+      "coordinates": "[105.91782,14.22234]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ຄຳແສນ (LAMAL130408)",
+      "id": "rTz1fpd9rwU",
+      "displayName": "CL ຄຳແສນ (LAMAL130408)",
+      "coordinates": "[106.01356,16.53272]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດວງອະນຸສອນ (LAMAL130203)",
+      "id": "TRBUsYMjKnw",
+      "displayName": "PH ດວງອະນຸສອນ (LAMAL130203)",
+      "coordinates": "[105.11753,16.69376]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ອໍາມອນ (LAMAL160605)",
+      "id": "rgoZG8JCSEP",
+      "displayName": "PH ອໍາມອນ (LAMAL160605)",
+      "coordinates": "[105.65303,15.10115]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສາລີ ວົງຄຳແພງ (LAMAL140405)",
+      "id": "IdPG1N4w5au",
+      "displayName": "PH ສາລີ ວົງຄຳແພງ (LAMAL140405)",
+      "coordinates": "[105.48935,15.95849]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄໍາປຸນ (LAMAL160909)",
+      "id": "Sxg68FmNw62",
+      "displayName": "PH ຄໍາປຸນ (LAMAL160909)",
+      "coordinates": "[105.86914,14.33096]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເຂັມພອນ (LAMAL160611)",
+      "id": "Ej5jcVvwAW9",
+      "displayName": "PH ເຂັມພອນ (LAMAL160611)",
+      "coordinates": "[105.50275,15.13684]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຄຳຜົງ (LAMAL131204)",
+      "id": "mdjKOKsoxgZ",
+      "displayName": "CL ດຣ ຄຳຜົງ (LAMAL131204)",
+      "coordinates": "[105.94318,16.97523]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພໍ່ແກ້ວ (LAMAL160810)",
+      "id": "W4FkMNIvTNs",
+      "displayName": "PH ພໍ່ແກ້ວ (LAMAL160810)",
+      "coordinates": "[105.85276,14.64122]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ. ພົງສະຫວັດ ໄຊປັນຍາ (LAMAL130803)",
+      "id": "Jx7ADKdSHsl",
+      "displayName": "CL ດຣ. ພົງສະຫວັດ ໄຊປັນຍາ (LAMAL130803)",
+      "coordinates": "[105.20178,16.23413]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຈັນທີ (LAMAL130208)",
+      "id": "MnklSxoR8ou",
+      "displayName": "CL ດຣ ຈັນທີ (LAMAL130208)",
+      "coordinates": "[104.99094,16.67409]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸມຄຳ (LAMAL160404)",
+      "id": "VjvXM9O7QPW",
+      "displayName": "PH ສຸມຄຳ (LAMAL160404)",
+      "coordinates": "[106.22921,15.18152]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດວງມານີ (LAMAL160514)",
+      "id": "VkY5Gp3hCsd",
+      "displayName": "PH ດວງມານີ (LAMAL160514)",
+      "coordinates": "[106.08244,14.71966]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ໂອໄດ (LAMAL130402)",
+      "id": "s5Gv7yNw7sC",
+      "displayName": "CL ດຣ ໂອໄດ (LAMAL130402)",
+      "coordinates": "[105.92016,16.57499]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໜູເຊື່ອມ (LAMAL130810)",
+      "id": "F04lyIaPBqe",
+      "displayName": "PH ໜູເຊື່ອມ (LAMAL130810)",
+      "coordinates": "[105.20132,16.23496]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳເລີງ ໂອສົດ (LAMAL130401)",
+      "id": "SU78sEPFMcL",
+      "displayName": "PH ຄຳເລີງ ໂອສົດ (LAMAL130401)",
+      "coordinates": "[105.61681,16.57303]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວັນດີ (LAMAL140109)",
+      "id": "KVVdAQbgcOS",
+      "displayName": "PH ວັນດີ (LAMAL140109)",
+      "coordinates": "[106.29411,15.56793]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ໃບລຽບ (LAMAL130227)",
+      "id": "ekmNhzWSQLV",
+      "displayName": "CL ດຣ ໃບລຽບ (LAMAL130227)",
+      "coordinates": "[104.98409,16.67445]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ດວງຕາ (LAMAL160408)",
+      "id": "QurkBBhXtnV",
+      "displayName": "CL ດຣ ດວງຕາ (LAMAL160408)",
+      "coordinates": "[106.23023,15.17791]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມະຍຸລີ (LAMAL130809)",
+      "id": "lONnpMy9SBl",
+      "displayName": "PH ມະຍຸລີ (LAMAL130809)",
+      "coordinates": "[105.20144,16.23523]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວໃຂ (LAMAL160805)",
+      "id": "F7A8HIC8K8I",
+      "displayName": "PH ບົວໃຂ (LAMAL160805)",
+      "coordinates": "[105.78829,14.638]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີພອນ ໂອສົດ (LAMAL140611)",
+      "id": "x8VME2S1kIJ",
+      "displayName": "PH ສີພອນ ໂອສົດ (LAMAL140611)",
+      "coordinates": "[105.80558,15.58017]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສູນທອນ (LAMAL160502)",
+      "id": "gcms9z5qZRh",
+      "displayName": "PH ສູນທອນ (LAMAL160502)",
+      "coordinates": "[105.89072,14.86401]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລວຍລ້ານຕື້ (LAMAL140504)",
+      "id": "jQP5NdV0UmF",
+      "displayName": "PH ລວຍລ້ານຕື້ (LAMAL140504)",
+      "coordinates": "[105.97218,15.69981]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Vapy_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວເງີນ (LAMAL160202)",
+      "id": "Pw75AkFkE67",
+      "displayName": "PH ບົວເງີນ (LAMAL160202)",
+      "coordinates": "[105.78368,15.34812]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຂັນເງີນ (LAMAL160311)",
+      "id": "R4FtXZnN4Qp",
+      "displayName": "PH ຂັນເງີນ (LAMAL160311)",
+      "coordinates": "[105.89998,15.06307]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL Dr. Viengma Thepphituk",
+      "id": "gfB5BHJNrIu",
+      "displayName": "CL Dr. Viengma Thepphituk",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຄຳບອນ (LAMAL160303)",
+      "id": "pNbvSe2nm6C",
+      "displayName": "CL ດຣ ຄຳບອນ (LAMAL160303)",
+      "coordinates": "[105.88294,15.12217]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກິແກ້ວ (LAMAL130220)",
+      "id": "zOsQfzvVaom",
+      "displayName": "PH ກິແກ້ວ (LAMAL130220)",
+      "coordinates": "[104.98941,16.67611]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພຸວາລີນ (LAMAL130205)",
+      "id": "WIqxDJQqpxq",
+      "displayName": "PH ພຸວາລີນ (LAMAL130205)",
+      "coordinates": "[104.98966,16.67544]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີຫູນ (LAMAL160510)",
+      "id": "WMzRhn7PJhc",
+      "displayName": "PH ສີຫູນ (LAMAL160510)",
+      "coordinates": "[106.05905,14.81347]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ແກ້ວອຸດອນ (LAMAL160803)",
+      "id": "kYWnmq2R8Xp",
+      "displayName": "CL ດຣ ແກ້ວອຸດອນ (LAMAL160803)",
+      "coordinates": "[105.79444,14.63898]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "name": "PH ສີມອນ (LAMAL160205)",
+      "id": "ULQbClHfBGN",
+      "displayName": "PH ສີມອນ (LAMAL160205)",
+      "coordinates": "[105.81635,15.37683]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສີທາ (LAMAL130231)",
+      "id": "yp6ahiYO5b3",
+      "displayName": "CL ດຣ ສີທາ (LAMAL130231)",
+      "coordinates": "[105.02072,16.62785]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສາຍນ້ຳເພັດ ໂອສົດ (LAMAL130602)",
+      "id": "ERBXiMk3L4o",
+      "displayName": "PH ສາຍນ້ຳເພັດ ໂອສົດ (LAMAL130602)",
+      "coordinates": "[106.49481,16.37343]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Nong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລັດສະໝີ (LAMAL160207)",
+      "id": "UIYhFQFdUsC",
+      "displayName": "PH ລັດສະໝີ (LAMAL160207)",
+      "coordinates": "[105.83874,15.36213]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ປາວີນາ (LAMAL130708)",
+      "id": "zTzaT1AKJ0C",
+      "displayName": "PH ປາວີນາ (LAMAL130708)",
+      "coordinates": "[105.74328,15.99361]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວິໄລສອນ (LAMAL140410)",
+      "id": "ga62DOP8GNV",
+      "displayName": "PH ວິໄລສອນ (LAMAL140410)",
+      "coordinates": "[105.56354,15.89531]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດາວອນ (LAMAL160304)",
+      "id": "rBQzQRRqS0i",
+      "displayName": "PH ດາວອນ (LAMAL160304)",
+      "coordinates": "[105.87521,15.11342]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງຄຳ (LAMAL140605)",
+      "id": "ufCkqvYVeG9",
+      "displayName": "PH ແສງຄຳ (LAMAL140605)",
+      "coordinates": "[105.79976,15.65987]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສໍາລີ (LAMAL160607)",
+      "id": "VGcHP4YZqnL",
+      "displayName": "PH ສໍາລີ (LAMAL160607)",
+      "coordinates": "[105.61993,15.14162]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນຮຽງ (LAMAL161017)",
+      "id": "khstVs6xoKR",
+      "displayName": "PH ບຸນຮຽງ (LAMAL161017)",
+      "coordinates": "[105.92149,14.00289]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລັດດາວັນ (LAMAL140615)",
+      "id": "ZpkFgBbaEJn",
+      "displayName": "PH ລັດດາວັນ (LAMAL140615)",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ວຽງມາ ເທບພິທັກ (LAMAL130802)",
+      "id": "gFQx82WSgqa",
+      "displayName": "CL ດຣ.ວຽງມາ ເທບພິທັກ (LAMAL130802)",
+      "coordinates": "[105.20199,16.23695]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ດວງຕາ (LAMAL140602)",
+      "id": "znUoRvZXJNf",
+      "displayName": "CL ດຣ ດວງຕາ (LAMAL140602)",
+      "coordinates": "[105.80093,15.58712]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH Daophasouk (404_18)",
+      "id": "JSijEcDuFa6",
+      "displayName": "PH Daophasouk (404_18)",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ອຸດຕະພອນ (LAMAL160316)",
+      "id": "qFT3J1Yol1M",
+      "displayName": "CL ດຣ ອຸດຕະພອນ (LAMAL160316)",
+      "coordinates": "[105.94361,15.27502]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນທານ ໂອສົດ (LAMAL130413)",
+      "id": "Cz9wS2Cf9RJ",
+      "displayName": "PH ບຸນທານ ໂອສົດ (LAMAL130413)",
+      "coordinates": "[106.05987,16.56237]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດາວ (LAMAL160211)",
+      "id": "JhKYf0gkiqw",
+      "displayName": "PH ດາວ (LAMAL160211)",
+      "coordinates": "[105.18625,15.18625]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກອງມະນີ (LAMAL130206)",
+      "id": "tLOu5V659ZB",
+      "displayName": "PH ກອງມະນີ (LAMAL130206)",
+      "coordinates": "[104.98739,16.67538]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນທະນົງ (LAMAL160310)",
+      "id": "nLizztfJrAL",
+      "displayName": "PH ບຸນທະນົງ (LAMAL160310)",
+      "coordinates": "[105.90016,15.06362]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳໄຕ (LAMAL161006)",
+      "id": "LP8l3gwj1LL",
+      "displayName": "PH ຄຳໄຕ (LAMAL161006)",
+      "coordinates": "[105.86162,14.10977]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມບູນ (LAMAL160906)",
+      "id": "f05zZWU9NIT",
+      "displayName": "PH ສົມບູນ (LAMAL160906)",
+      "coordinates": "[105.67521,14.38224]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເກດ (LAMAL140411)",
+      "id": "SOzqWpsCsFK",
+      "displayName": "PH ເກດ (LAMAL140411)",
+      "coordinates": "[105.70881,15.79157]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໜູຈັນ (LAMAL160406)",
+      "id": "pM0uuS3Yzfj",
+      "displayName": "PH ໜູຈັນ (LAMAL160406)",
+      "coordinates": "[106.22645,15.17872]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄໍາບອນ (LAMAL160807)",
+      "id": "Kq6b3s1T9T1",
+      "displayName": "PH ຄໍາບອນ (LAMAL160807)",
+      "coordinates": "[105.74294,14.70818]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນທັນ (LAMAL130706)",
+      "id": "ni8r87bHQqu",
+      "displayName": "PH ບຸນທັນ (LAMAL130706)",
+      "coordinates": "[105.74252,15.99376]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແພງພອນ (LAMAL160507)",
+      "id": "zzZa3WGcLsW",
+      "displayName": "PH ແພງພອນ (LAMAL160507)",
+      "coordinates": "[105.94828,14.84088]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH  ລັດສະຫມີ (LAMAL160804)",
+      "id": "bYh2jfIwRFD",
+      "displayName": "PH  ລັດສະຫມີ (LAMAL160804)",
+      "coordinates": "[105.79003,14.63753]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງຄຳ (LAMAL160506)",
+      "id": "QiBJmpC5wWz",
+      "displayName": "PH ທອງຄຳ (LAMAL160506)",
+      "coordinates": "[105.94331,14.84976]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນຈັນ (LAMAL140106)",
+      "id": "F6g2Cfipzj7",
+      "displayName": "PH ບຸນຈັນ (LAMAL140106)",
+      "coordinates": "[106.36848,15.75636]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມລິດ (LAMAL140114)",
+      "id": "hY7OIHJ2O7m",
+      "displayName": "PH ສົມລິດ (LAMAL140114)",
+      "coordinates": "[106.44822,15.70655]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນໂຮງ (LAMAL130232)",
+      "id": "RdED9OM7drE",
+      "displayName": "CL ດຣ ບຸນໂຮງ (LAMAL130232)",
+      "coordinates": "[104.99415,16.67809]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມໃຈ (LAMAL130705)",
+      "id": "vTamIRFqxb7",
+      "displayName": "PH ສົມໃຈ (LAMAL130705)",
+      "coordinates": "[105.74306,15.99402]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດອກຮັກວິໄລ (LAMAL140120)",
+      "id": "xyEJhrUqB3I",
+      "displayName": "PH ດອກຮັກວິໄລ (LAMAL140120)",
+      "coordinates": "[106.42093,15.71741]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໄພມະນີ (LAMAL161013)",
+      "id": "hOpPHR48Snx",
+      "displayName": "PH ໄພມະນີ (LAMAL161013)",
+      "coordinates": "[105.88612,14.42927]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມພົງ (LAMAL160912)",
+      "id": "NnYcomObaar",
+      "displayName": "PH ສົມພົງ (LAMAL160912)",
+      "coordinates": "[105.74403,14.16914]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ບຸນທະວີ (LAMAL161001)",
+      "id": "VjCj4yZJzmF",
+      "displayName": "CL ດຣ ບຸນທະວີ (LAMAL161001)",
+      "coordinates": "[105.78166,14.10217]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີສຸພັນ (LAMAL131308)",
+      "id": "aieyNYTUIgb",
+      "displayName": "PH ສີສຸພັນ (LAMAL131308)",
+      "coordinates": "[105.32942,16.84804]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຍອດແກ້ວ (LAMAL160313)",
+      "id": "cpyjebrfkYE",
+      "displayName": "PH ຍອດແກ້ວ (LAMAL160313)",
+      "coordinates": "[105.97467,15.16699]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ບຸນພະລິດ ພົມມະແສງ (LAMAL130704)",
+      "id": "CYBFzcA4JK6",
+      "displayName": "CL ດຣ.ບຸນພະລິດ ພົມມະແສງ (LAMAL130704)",
+      "coordinates": "[105.74286,15.99388]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ມະໂນເພັດ (LAMAL140603)",
+      "id": "Fl8HfpXSzqZ",
+      "displayName": "CL ດຣ ມະໂນເພັດ (LAMAL140603)",
+      "coordinates": "[105.82019,15.58884]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີວິໄລ ໂອສົດ (LAMAL130406)",
+      "id": "tsuztL16OOw",
+      "displayName": "PH ສີວິໄລ ໂອສົດ (LAMAL130406)",
+      "coordinates": "[105.99935,16.53025]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳບົນ (LAMAL130233)",
+      "id": "NUhqdoUxUCi",
+      "displayName": "PH ຄຳບົນ (LAMAL130233)",
+      "coordinates": "[104.98274,16.67369]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ປານີ (LAMAL160508)",
+      "id": "gc61Z5CrDIV",
+      "displayName": "PH ປານີ (LAMAL160508)",
+      "coordinates": "[105.93456,14.87491]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ. ຮັກມາລາດົມ ຄັນທະເສນ (LAMAL130804)",
+      "id": "rco0wGAE1xg",
+      "displayName": "CL ດຣ. ຮັກມາລາດົມ ຄັນທະເສນ (LAMAL130804)",
+      "coordinates": "[105.20297,16.23545]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແກ້ວຕາໂອສົດ (LAMAL130409)",
+      "id": "buZ0EQSHHhg",
+      "displayName": "PH ແກ້ວຕາໂອສົດ (LAMAL130409)",
+      "coordinates": "[106.01435,16.53325]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງສຸກ (LAMAL160903)",
+      "id": "PSbwC9bZNdO",
+      "displayName": "PH ທອງສຸກ (LAMAL160903)",
+      "coordinates": "[105.85078,14.36628]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນເນື່ອງ (LAMAL160405)",
+      "id": "IrKiZIwSuD5",
+      "displayName": "PH ບຸນເນື່ອງ (LAMAL160405)",
+      "coordinates": "[106.22979,15.18116]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວັນວິໄລ (LAMAL130219)",
+      "id": "C924t0hXlvE",
+      "displayName": "PH ວັນວິໄລ (LAMAL130219)",
+      "coordinates": "[104.98938,16.67634]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີນວນ (LAMAL160901)",
+      "id": "wKEUXf3cenU",
+      "displayName": "PH ສີນວນ (LAMAL160901)",
+      "coordinates": "[105.84739,14.39133]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ເພັດສະໝອນ ແກ້ວມາລາ (LAMAL140401)",
+      "id": "ulT6Yn5oAHG",
+      "displayName": "CL ດຣ ເພັດສະໝອນ ແກ້ວມາລາ (LAMAL140401)",
+      "coordinates": "[105.56671,15.888978]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈັນທອນ (LAMAL160815)",
+      "id": "JOvAa8zM1cN",
+      "displayName": "PH ຈັນທອນ (LAMAL160815)",
+      "coordinates": "[105.8674,14.96672]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນເລື່ອມ (LAMAL160402)",
+      "id": "pGrhYS7O5C1",
+      "displayName": "PH ບຸນເລື່ອມ (LAMAL160402)",
+      "coordinates": "[106.22945,16.18172]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສາຍຄຳ ໂອສົດ (LAMAL131207)",
+      "id": "wjEtcZecZYK",
+      "displayName": "PH ສາຍຄຳ ໂອສົດ (LAMAL131207)",
+      "coordinates": "[105.88262,16.84338]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນລຽ້ງ (LAMAL160401)",
+      "id": "HOE5i2QJKcB",
+      "displayName": "PH ບຸນລຽ້ງ (LAMAL160401)",
+      "coordinates": "[106.2309,15.18289]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວລອນ (LAMAL160413)",
+      "id": "kDSxA0DpRdZ",
+      "displayName": "PH ບົວລອນ (LAMAL160413)",
+      "coordinates": "[106.16862,15.19134]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸກສະຫວັດ (LAMAL140116)",
+      "id": "L27J5Lbmkj2",
+      "displayName": "PH ສຸກສະຫວັດ (LAMAL140116)",
+      "coordinates": "[106.41996,15.71502]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈັນສຸກ (LAMAL160904)",
+      "id": "DxqWrEVYiRn",
+      "displayName": "PH ຈັນສຸກ (LAMAL160904)",
+      "coordinates": "[105.86259,14.36966]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳມວ່ນ (LAMAL161002)",
+      "id": "AY6Gqm4nmKq",
+      "displayName": "PH ຄຳມວ່ນ (LAMAL161002)",
+      "coordinates": "[105.75869,14.17299]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສາຍທອງ (LAMAL130226)",
+      "id": "aZIlub1EsX2",
+      "displayName": "PH ສາຍທອງ (LAMAL130226)",
+      "coordinates": "[104.98347,16.67411]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ສີສະຫວັນ ດວງຈັນທາ (LAMAL130702)",
+      "id": "rHD8whciuVg",
+      "displayName": "CL ດຣ.ສີສະຫວັນ ດວງຈັນທາ (LAMAL130702)",
+      "coordinates": "[105.75492,15.99375]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈຳປາແສງ (LAMAL160204)",
+      "id": "TCQgbAEzWrr",
+      "displayName": "PH ຈຳປາແສງ (LAMAL160204)",
+      "coordinates": "[105.77849,15.42795]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄອນສະຫວັນ (LAMAL160513)",
+      "id": "DuErtbLVUT3",
+      "displayName": "PH ຄອນສະຫວັນ (LAMAL160513)",
+      "coordinates": "[106.08549,14.73136]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແກ້ວອຸດອນ (LAMAL140122)",
+      "id": "ZzCY4q9AlL5",
+      "displayName": "PH ແກ້ວອຸດອນ (LAMAL140122)",
+      "coordinates": "[106.40607,15.71359]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳມຸກ (LAMAL130221)",
+      "id": "i2pzRfbW9yR",
+      "displayName": "PH ຄຳມຸກ (LAMAL130221)",
+      "coordinates": "[104.98911,16.67606]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວັນຄໍາ (LAMAL160602)",
+      "id": "Evgv1IXROeC",
+      "displayName": "PH ວັນຄໍາ (LAMAL160602)",
+      "coordinates": "[105.77328,15.10479]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຊາລີ (LAMAL160305)",
+      "id": "nOS8THbHHtt",
+      "displayName": "PH ຊາລີ (LAMAL160305)",
+      "coordinates": "[105.87546,15.11471]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີສົມບັດ (LAMAL140407)",
+      "id": "xNab6jIVSyX",
+      "displayName": "PH ສີສົມບັດ (LAMAL140407)",
+      "coordinates": "[105.48839,15.92965]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ທອງບາ (LAMAL131302)",
+      "id": "zdaak1K2ar5",
+      "displayName": "CL ດຣ ທອງບາ (LAMAL131302)",
+      "coordinates": "[105.33116,16.84888]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລິລຳມອນ (LAMAL130815)",
+      "id": "nP7lAtgEWTR",
+      "displayName": "PH ລິລຳມອນ (LAMAL130815)",
+      "coordinates": "[105.20064,16.23545]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແມ່ສຸກ (LAMAL160606)",
+      "id": "aXoJaCmYm2x",
+      "displayName": "PH ແມ່ສຸກ (LAMAL160606)",
+      "coordinates": "[105.65223,15.10275]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສີສົມແພງ (LAMAL130407)",
+      "id": "uzbiRtchoP5",
+      "displayName": "CL ດຣ ສີສົມແພງ (LAMAL130407)",
+      "coordinates": "[106.06107,16.52858]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄອນສະຫວັນ (LAMAL160301)",
+      "id": "HlaFnAKzP0O",
+      "displayName": "PH ຄອນສະຫວັນ (LAMAL160301)",
+      "coordinates": "[105.88283,15.12229]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດຣ ພູເຂົາ (LAMAL160604)",
+      "id": "WpurIQEFB2O",
+      "displayName": "PH ດຣ ພູເຂົາ (LAMAL160604)",
+      "coordinates": "[105.65368,15.10073]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວຽງຄອນ ແສງສະຫວັນ (LAMAL140107)",
+      "id": "OvHNfy8Yufs",
+      "displayName": "PH ວຽງຄອນ ແສງສະຫວັນ (LAMAL140107)",
+      "coordinates": "[106.38348,15.71674]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ຄຳຄາຍ (LAMAL140124)",
+      "id": "Piq2be8QY0n",
+      "displayName": "CL ຄຳຄາຍ (LAMAL140124)",
+      "coordinates": "[106.42486,15.71881]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ສີສະເຫວີຍ ດວງຈັນທາ (LAMAL130805)",
+      "id": "byo48qB1xGd",
+      "displayName": "CL ດຣ.ສີສະເຫວີຍ ດວງຈັນທາ (LAMAL130805)",
+      "coordinates": "[105.20087,16.23389]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມາລີ (LAMAL161003)",
+      "id": "aXSy4HHR1tw",
+      "displayName": "PH ມາລີ (LAMAL161003)",
+      "coordinates": "[105.86162,14.04577]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງອາທິດ (LAMAL140112)",
+      "id": "LiFXTbSVY4a",
+      "displayName": "PH ແສງອາທິດ (LAMAL140112)",
+      "coordinates": "[106.33217,15.71166]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເພັດສະໝອນ (LAMAL140606)",
+      "id": "HSHMLoaFNzD",
+      "displayName": "PH ເພັດສະໝອນ (LAMAL140606)",
+      "coordinates": "[105.80647,15.63269]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈັນສະໄໝ (LAMAL130207)",
+      "id": "gR4cXK4Vxzw",
+      "displayName": "PH ຈັນສະໄໝ (LAMAL130207)",
+      "coordinates": "[104.99109,16.67402]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດາວວີ (LAMAL140601)",
+      "id": "HJOdYIncSEq",
+      "displayName": "PH ດາວວີ (LAMAL140601)",
+      "coordinates": "[105.79922,15.58353]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວໄລ (LAMAL160814)",
+      "id": "nQJ4fONHp3N",
+      "displayName": "PH ບົວໄລ (LAMAL160814)",
+      "coordinates": "[105.71383,14.69223]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ນາລອນ (LAMAL130604)",
+      "id": "q34AyDKFGRO",
+      "displayName": "CL ດຣ ນາລອນ (LAMAL130604)",
+      "coordinates": "[106.49841,16.37904]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Nong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄໍາມູນ (LAMAL160914)",
+      "id": "o48BctOeje0",
+      "displayName": "PH ຄໍາມູນ (LAMAL160914)",
+      "coordinates": "[105.73844,14.17473]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດອກເງິນ (LAMAL130816)",
+      "id": "oozQAO0bdW2",
+      "displayName": "PH ດອກເງິນ (LAMAL130816)",
+      "coordinates": "[105.18978,16.23822]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ອຳພອນ (LAMAL161018)",
+      "id": "e1RyrmZ6VI3",
+      "displayName": "CL ດຣ ອຳພອນ (LAMAL161018)",
+      "coordinates": "[105.92123,14.00211]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງວັນ (LAMAL140110)",
+      "id": "xiZLKrAXv3e",
+      "displayName": "PH ທອງວັນ (LAMAL140110)",
+      "coordinates": "[106.26056,15.54125]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມໃຈ (LAMAL160503)",
+      "id": "MQwbqjQ6hop",
+      "displayName": "PH ສົມໃຈ (LAMAL160503)",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພອນປະເສີດ (LAMAL160511)",
+      "id": "KyxJLe47cOj",
+      "displayName": "PH ພອນປະເສີດ (LAMAL160511)",
+      "coordinates": "[105.94524,14.84643]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພູວົງ ໂອສົດ (LAMAL130411)",
+      "id": "ZQmjeVJEsIq",
+      "displayName": "PH ພູວົງ ໂອສົດ (LAMAL130411)",
+      "coordinates": "[106.02277,16.53409]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄອນສະຫວັນ (LAMAL160608)",
+      "id": "f8BSlvX5O8d",
+      "displayName": "PH ຄອນສະຫວັນ (LAMAL160608)",
+      "coordinates": "[105.61832,15.14238]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH  ທອງໃສ (LAMAL160801)",
+      "id": "NT9yxQKwzTs",
+      "displayName": "PH  ທອງໃສ (LAMAL160801)",
+      "coordinates": "[105.79449,14.6781]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພິມມະສອນ (LAMAL130211)",
+      "id": "yB62ccyAn49",
+      "displayName": "PH ພິມມະສອນ (LAMAL130211)",
+      "coordinates": "[104.96273,16.67817]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດຣ ວິໄລວັນ (LAMAL130410)",
+      "id": "OBF1RPgOk9W",
+      "displayName": "PH ດຣ ວິໄລວັນ (LAMAL130410)",
+      "coordinates": "[106.02256,16.53315]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຖາວອນ (LAMAL160403)",
+      "id": "RMNhb2TT8gh",
+      "displayName": "PH ຖາວອນ (LAMAL160403)",
+      "coordinates": "[106.22968,15.18238]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຫວ່າງ (LAMAL130711)",
+      "id": "zNVxkp5uaqR",
+      "displayName": "PH ຫວ່າງ (LAMAL130711)",
+      "coordinates": "[105.75112,15.99385]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸດໃຈ (LAMAL160409)",
+      "id": "dE7BwPjUpek",
+      "displayName": "PH ສຸດໃຈ (LAMAL160409)",
+      "coordinates": "[106.23169,15.17763]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸກັນພັດທະນາ ໂອສົດ (LAMAL140404)",
+      "id": "JSUx5ILkfF5",
+      "displayName": "PH ສຸກັນພັດທະນາ ໂອສົດ (LAMAL140404)",
+      "coordinates": "[105.40725,15.95271]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມລິດ (LAMAL130707)",
+      "id": "MGgdRt4Hna6",
+      "displayName": "PH ສົມລິດ (LAMAL130707)",
+      "coordinates": "[105.74284,15.99458]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກິແດງ (LAMAL160603)",
+      "id": "JAUwgHXMBs4",
+      "displayName": "PH ກິແດງ (LAMAL160603)",
+      "coordinates": "[105.77295,15.10588]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງຈັນ (LAMAL160910)",
+      "id": "RgGOgucFUwd",
+      "displayName": "PH ແສງຈັນ (LAMAL160910)",
+      "coordinates": "[105.86765,14.32848]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຸນມີ (LAMAL130202)",
+      "id": "ssLtj1V71Fx",
+      "displayName": "PH ຄຸນມີ (LAMAL130202)",
+      "coordinates": "[104.99679,16.79894]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH Buavilay (405_29)",
+      "id": "iEHThGBluKa",
+      "displayName": "PH Buavilay (405_29)",
+      "attributeValues": []
+    },
+    {
+      "level": 6,
+      "name": "PH ອືພີມພີສານ (LAMAL160811)",
+      "id": "RyMNAja3HVx",
+      "displayName": "PH ອືພີມພີສານ (LAMAL160811)",
+      "coordinates": "[105.8573,14.63024]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສີສົງຄາມ (LAMAL130403)",
+      "id": "KkoIcOnyLPW",
+      "displayName": "CL ດຣ ສີສົງຄາມ (LAMAL130403)",
+      "coordinates": "[105.91772,16.57261]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ອຸ່ນເຮື່ອງ (LAMAL130412)",
+      "id": "PW2JsjmjCV5",
+      "displayName": "CL ດຣ ອຸ່ນເຮື່ອງ (LAMAL130412)",
+      "coordinates": "[106.03388,16.53545]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມະນີພອນ (LAMAL160210)",
+      "id": "EmajBx6Bzop",
+      "displayName": "PH ມະນີພອນ (LAMAL160210)",
+      "coordinates": "[105.73229,15.22082]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໄຊສົມບັດ (LAMAL140104)",
+      "id": "xzxeHEI7HD5",
+      "displayName": "PH ໄຊສົມບັດ (LAMAL140104)",
+      "coordinates": "[106.41856,15.71373]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີຜາ (LAMAL160908)",
+      "id": "ltMRqYRqUU1",
+      "displayName": "PH ສີຜາ (LAMAL160908)",
+      "coordinates": "[105.86832,14.34412]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸລິເຍດ (LAMAL130817)",
+      "id": "XbJZDlbHaET",
+      "displayName": "PH ສຸລິເຍດ (LAMAL130817)",
+      "coordinates": "[105.20064,16.23629]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສະຫວັນດວງຕາ (LAMAL140413)",
+      "id": "iDa7bsFqECt",
+      "displayName": "PH ສະຫວັນດວງຕາ (LAMAL140413)",
+      "coordinates": "[105.76627,15.74925]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແຜນປັດຈຸບັນ (LAMAL140612)",
+      "id": "aMHwvlHIlP8",
+      "displayName": "PH ແຜນປັດຈຸບັນ (LAMAL140612)",
+      "coordinates": "[105.80912,15.57772]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ອອ່ນສີ ໂອສົດ (LAMAL130603)",
+      "id": "EAIEDHQJCpE",
+      "displayName": "PH ອອ່ນສີ ໂອສົດ (LAMAL130603)",
+      "coordinates": "[106.49602,16.37329]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Nong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ໂຈມສີ (LAMAL131306)",
+      "id": "SeJm4XKHVrX",
+      "displayName": "CL ດຣ ໂຈມສີ (LAMAL131306)",
+      "coordinates": "[105.32794,16.85479]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ວາດສະໜາ (LAMAL140123)",
+      "id": "khjK5G2zoaY",
+      "displayName": "PH ວາດສະໜາ (LAMAL140123)",
+      "coordinates": "[106.42504,15.71782]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH  ສີເມີອງ (LAMAL160802)",
+      "id": "SXU6HbBl6PF",
+      "displayName": "PH  ສີເມີອງ (LAMAL160802)",
+      "coordinates": "[105.79477,14.63982]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນຊູ (LAMAL160312)",
+      "id": "LiXzc4kpctY",
+      "displayName": "PH ບຸນຊູ (LAMAL160312)",
+      "coordinates": "[105.93287,15.15262]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳໄຜ່ (LAMAL130212)",
+      "id": "FDQZ7m9VKwz",
+      "displayName": "PH ຄຳໄຜ່ (LAMAL130212)",
+      "coordinates": "[104.96031,16.68014]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແສງອຳພອນ (LAMAL160902)",
+      "id": "U0xMvDSFwll",
+      "displayName": "PH ແສງອຳພອນ (LAMAL160902)",
+      "coordinates": "[105.85788,14.37586]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພວງ (LAMAL160609)",
+      "id": "SDgt7Y3R28U",
+      "displayName": "PH ພວງ (LAMAL160609)",
+      "coordinates": "[105.61001,15.14566]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສຸດໃຈ (LAMAL160806)",
+      "id": "mtSxnM2BqDu",
+      "displayName": "CL ດຣ ສຸດໃຈ (LAMAL160806)",
+      "coordinates": "[105.78941,14.63604]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ນິຄົມ (LAMAL130210)",
+      "id": "UwGuQYdkdAd",
+      "displayName": "PH ນິຄົມ (LAMAL130210)",
+      "coordinates": "[104.98754,16.67543]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໄພວັນ (LAMAL160416)",
+      "id": "UnALlwMXdgB",
+      "displayName": "PH ໄພວັນ (LAMAL160416)",
+      "coordinates": "[106.52512,15.12369]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຈັນສະໝອນ (LAMAL140101)",
+      "id": "v6tkJLerecG",
+      "displayName": "CL ດຣ ຈັນສະໝອນ (LAMAL140101)",
+      "coordinates": "[106.38228,15.71885]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກິດາວັນ (LAMAL160411)",
+      "id": "DmRC9vYhc9l",
+      "displayName": "PH ກິດາວັນ (LAMAL160411)",
+      "coordinates": "[106.23609,15.17707]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳສິງ (LAMAL160315)",
+      "id": "YkXECOhg15f",
+      "displayName": "PH ຄຳສິງ (LAMAL160315)",
+      "coordinates": "[106.08663,15.40611]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ພູວຽງ (LAMAL140111)",
+      "id": "wIHyMDbZOeO",
+      "displayName": "PH ພູວຽງ (LAMAL140111)",
+      "coordinates": "[106.26549,15.54125]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ກິດສະນະ (LAMAL140102)",
+      "id": "wChLvuladcO",
+      "displayName": "CL ດຣ ກິດສະນະ (LAMAL140102)",
+      "coordinates": "[106.40837,15.71634]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວພັນ (LAMAL130811)",
+      "id": "kVAv9NANXZu",
+      "displayName": "PH ບົວພັນ (LAMAL130811)",
+      "coordinates": "[105.38018,16.09368]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມິດ (LAMAL160415)",
+      "id": "UguoJuIqwdX",
+      "displayName": "PH ມິດ (LAMAL160415)",
+      "coordinates": "[106.52176,15.12511]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pakxong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄໍາໃສ (LAMAL160809)",
+      "id": "u1P7Qd21iIr",
+      "displayName": "PH ຄໍາໃສ (LAMAL160809)",
+      "coordinates": "[105.85845,14.64323]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Soukkhouma_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງພັນ (LAMAL160309)",
+      "id": "LtkTeVGFkWZ",
+      "displayName": "PH ທອງພັນ (LAMAL160309)",
+      "coordinates": "[105.89974,15.06399]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີລິວັນ (LAMAL160306)",
+      "id": "OoqPXgImNhF",
+      "displayName": "PH ສີລິວັນ (LAMAL160306)",
+      "coordinates": "[105.88086,15.10634]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ແດນສະຫວັນ (LAMAL140607)",
+      "id": "ZSlu08yXQNx",
+      "displayName": "PH ແດນສະຫວັນ (LAMAL140607)",
+      "coordinates": "[105.80713,15.63279]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມາໄລທອງ (LAMAL160505)",
+      "id": "lUk7UMEQUB9",
+      "displayName": "PH ມາໄລທອງ (LAMAL160505)",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລຳມະທຸ (LAMAL130217)",
+      "id": "cWm4sFRkWHP",
+      "displayName": "PH ລຳມະທຸ (LAMAL130217)",
+      "coordinates": "[104.96504,16.67786]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບົວລຳພັນ (LAMAL130813)",
+      "id": "yCaArSCR9ct",
+      "displayName": "PH ບົວລຳພັນ (LAMAL130813)",
+      "coordinates": "[105.45662,16.02191]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເອກກະລາດ (LAMAL160308)",
+      "id": "d5Km5jm758N",
+      "displayName": "PH ເອກກະລາດ (LAMAL160308)",
+      "coordinates": "[105.89403,15.07218]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເພັດພູສອນ (LAMAL130709)",
+      "id": "VnWdYeau7uh",
+      "displayName": "PH ເພັດພູສອນ (LAMAL130709)",
+      "coordinates": "[105.74317,15.99412]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ມະໄລທອງ (LAMAL140505)",
+      "id": "cQKnZZFPutx",
+      "displayName": "PH ມະໄລທອງ (LAMAL140505)",
+      "coordinates": "[105.96647,15.69649]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Vapy_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສິນໄຖ/ນ ຈັນຖາວອນ (LAMAL161007)",
+      "id": "XysIWYOSqFQ",
+      "displayName": "CL ດຣ ສິນໄຖ/ນ ຈັນຖາວອນ (LAMAL161007)",
+      "coordinates": "[105.89329,14.06059]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸລິນ (LAMAL140507)",
+      "id": "IAgiqWRN15U",
+      "displayName": "PH ສຸລິນ (LAMAL140507)",
+      "coordinates": "[105.90616,15.69256]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Vapy_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ລັດຕະນາ (LAMAL160314)",
+      "id": "R35Y0TkGXck",
+      "displayName": "PH ລັດຕະນາ (LAMAL160314)",
+      "coordinates": "[105.95231,15.20376]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.241",
+          "created": "2017-12-05T03:52:10.241",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນໂຮມ (LAMAL160512)",
+      "id": "f0CanLw9BQt",
+      "displayName": "PH ບຸນໂຮມ (LAMAL160512)",
+      "coordinates": "[106.08963,14.73197]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.242",
+          "created": "2017-12-05T03:52:10.242",
+          "value": "Pathoumphon_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳສອນ (LAMAL130224)",
+      "id": "NRPsEadlYZ2",
+      "displayName": "PH ຄຳສອນ (LAMAL130224)",
+      "coordinates": "[104.00882,16.67839]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ດຣ ວັນປະເສີດ (LAMAL140608)",
+      "id": "bvtNTi2x0pY",
+      "displayName": "PH ດຣ ວັນປະເສີດ (LAMAL140608)",
+      "coordinates": "[105.79922,15.58353]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ.ສອນເພັດ ພົມຫຼວງສີ (LAMAL130701)",
+      "id": "k8bVX5bzUMf",
+      "displayName": "CL ດຣ.ສອນເພັດ ພົມຫຼວງສີ (LAMAL130701)",
+      "coordinates": "[105.75136,15.99392]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຂັນທະຫວິນ (LAMAL160307)",
+      "id": "d3yYevwF5YH",
+      "displayName": "PH ຂັນທະຫວິນ (LAMAL160307)",
+      "coordinates": "[105.88591,15.10055]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Bachiang_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທິບພະຈັນ (LAMAL131303)",
+      "id": "UZEumRAhY4e",
+      "displayName": "PH ທິບພະຈັນ (LAMAL131303)",
+      "coordinates": "[105.32966,16.84793]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນຕາ (LAMAL130215)",
+      "id": "zgm25eSdb0w",
+      "displayName": "PH ບຸນຕາ (LAMAL130215)",
+      "coordinates": "[104.96467,16.67808]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງ (LAMAL140610)",
+      "id": "GExkvjyGyyA",
+      "displayName": "PH ທອງ (LAMAL140610)",
+      "coordinates": "[105.84573,15.57592]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ອຳວິໄລ ໂອສົດ (LAMAL131203)",
+      "id": "oERt40YgFzj",
+      "displayName": "PH ອຳວິໄລ ໂອສົດ (LAMAL131203)",
+      "coordinates": "[105.94832,16.97333]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸວິນລາ (LAMAL140118)",
+      "id": "VU2jrEnlFNn",
+      "displayName": "PH ສຸວິນລາ (LAMAL140118)",
+      "coordinates": "[106.42124,15.71328]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ເພັດວິໄລ (LAMAL130405)",
+      "id": "zA4tU6rVamX",
+      "displayName": "CL ດຣ ເພັດວິໄລ (LAMAL130405)",
+      "coordinates": "[105.92304,16.56963]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Phine_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຳລີ (LAMAL140613)",
+      "id": "oujcGQHrAjG",
+      "displayName": "PH ສຳລີ (LAMAL140613)",
+      "coordinates": "[105.80912,15.57772]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສີວິໄລ (LAMAL161010)",
+      "id": "YGxLbJC5t3n",
+      "displayName": "CL ດຣ ສີວິໄລ (LAMAL161010)",
+      "coordinates": "[105.89562,14.04929]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳພູ (LAMAL130712)",
+      "id": "HKV8wGMpKTa",
+      "displayName": "PH ຄຳພູ (LAMAL130712)",
+      "coordinates": "[105.81405,15.97455]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ທອງທີບ ໂອສົດ (LAMAL140403)",
+      "id": "YW5756JDq2T",
+      "displayName": "PH ທອງທີບ ໂອສົດ (LAMAL140403)",
+      "coordinates": "[105.35674,15.93347]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຜາລ່ອງ (LAMAL140113)",
+      "id": "bCfJAAz59hd",
+      "displayName": "PH ຜາລ່ອງ (LAMAL140113)",
+      "coordinates": "[106.30822,15.61601]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ເຄືອວັນ (LAMAL160208)",
+      "id": "qzsCaeyymKz",
+      "displayName": "PH ເຄືອວັນ (LAMAL160208)",
+      "coordinates": "[105.83372,15.35943]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.240",
+          "created": "2017-12-05T03:52:10.240",
+          "value": "Sanasomboun_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສົມສະໃຫວ (LAMAL130808)",
+      "id": "An0gVdxP2LU",
+      "displayName": "PH ສົມສະໃຫວ (LAMAL130808)",
+      "coordinates": "[105.20215,16.23687]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສັນຕິສຸກ (LAMAL140412)",
+      "id": "cVUmBWYliqz",
+      "displayName": "PH ສັນຕິສຸກ (LAMAL140412)",
+      "coordinates": "[105.76264,15.75257]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຖະຫວິນ (LAMAL130713)",
+      "id": "eEqEJAarEee",
+      "displayName": "PH ຖະຫວິນ (LAMAL130713)",
+      "coordinates": "[105.62047,16.22186]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.234",
+          "created": "2017-12-05T03:52:10.234",
+          "value": "Thapangthong_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ໂມບາຍ (LAMAL160905)",
+      "id": "Wc2q3ipEl7p",
+      "displayName": "CL ດຣ ໂມບາຍ (LAMAL160905)",
+      "coordinates": "[105.84729,14.36024]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.231",
+          "created": "2017-12-05T03:52:10.231",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸກັນ ໂອສົດ (LAMAL131205)",
+      "id": "Nkl5VrqoKdV",
+      "displayName": "PH ສຸກັນ ໂອສົດ (LAMAL131205)",
+      "coordinates": "[105.93824,16.97047]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.236",
+          "created": "2017-12-05T03:52:10.236",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄອນສະຫວັນ (LAMAL160911)",
+      "id": "p9Z9wGQC3Kv",
+      "displayName": "PH ຄອນສະຫວັນ (LAMAL160911)",
+      "coordinates": "[105.86151,14.37155]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສີໝອກ (LAMAL130818)",
+      "id": "p7l5aXxYJId",
+      "displayName": "PH ສີໝອກ (LAMAL130818)",
+      "coordinates": "[105.12024,16.10429]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ອິນປອງ (LAMAL130216)",
+      "id": "As1hhQlLxxw",
+      "displayName": "PH ອິນປອງ (LAMAL130216)",
+      "coordinates": "[104.96471,16.67805]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.232",
+          "created": "2017-12-05T03:52:10.232",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໄພສານ ໂອສົດ (LAMAL140406)",
+      "id": "Cg3lYUshWLh",
+      "displayName": "PH ໄພສານ ໂອສົດ (LAMAL140406)",
+      "coordinates": "[105.48839,15.91001]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Lakhonepheng_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກິແກ້ວ (LAMAL140506)",
+      "id": "s1tOS6t40Dw",
+      "displayName": "PH ກິແກ້ວ (LAMAL140506)",
+      "coordinates": "[105.87658,15.66259]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.239",
+          "created": "2017-12-05T03:52:10.239",
+          "value": "Vapy_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສິສຸພັນ (LAMAL140604)",
+      "id": "YWFWJp1QUKG",
+      "displayName": "CL ດຣ ສິສຸພັນ (LAMAL140604)",
+      "coordinates": "[105.80141,15.58716]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.230",
+          "created": "2017-12-05T03:52:10.230",
+          "value": "Khongxedone_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳໝັ້ນ (LAMAL130814)",
+      "id": "pA6ke4OVs7M",
+      "displayName": "PH ຄຳໝັ້ນ (LAMAL130814)",
+      "coordinates": "[105.46838,16.01686]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Songkhone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນຊົມ (LAMAL160913)",
+      "id": "D79IKyfT2cy",
+      "displayName": "PH ບຸນຊົມ (LAMAL160913)",
+      "coordinates": "[105.74288,14.17116]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.244",
+          "created": "2017-12-05T03:52:10.244",
+          "value": "Mounlapamok_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ໂສຫວັດ (LAMAL161012)",
+      "id": "NAupUhOPDzU",
+      "displayName": "PH ໂສຫວັດ (LAMAL161012)",
+      "coordinates": "[105.87262,14.43929]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.245",
+          "created": "2017-12-05T03:52:10.245",
+          "value": "Khong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈັນທະພຸດ (LAMAL140115)",
+      "id": "cuYMErU477J",
+      "displayName": "PH ຈັນທະພຸດ (LAMAL140115)",
+      "coordinates": "[106.40678,15.71182]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ສຸກກະເສີມ (LAMAL160612)",
+      "id": "YjlMdcVk9tR",
+      "displayName": "PH ສຸກກະເສີມ (LAMAL160612)",
+      "coordinates": "[105.70666,14.98739]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.243",
+          "created": "2017-12-05T03:52:10.243",
+          "value": "Phonthong_16_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ຂັນໄຊ (LAMAL131305)",
+      "id": "nSmGVGpFKWF",
+      "displayName": "CL ດຣ ຂັນໄຊ (LAMAL131305)",
+      "coordinates": "[105.32848,16.84779]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.229",
+          "created": "2017-12-05T03:52:10.229",
+          "value": "Atsaphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ກອງຈັນ ໂອສົດ (LAMAL131201)",
+      "id": "hvitKDL9qRH",
+      "displayName": "PH ກອງຈັນ ໂອສົດ (LAMAL131201)",
+      "coordinates": "[105.95083,16.97191]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.235",
+          "created": "2017-12-05T03:52:10.235",
+          "value": "Vilabouly_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "CL ດຣ ສຸກັນ (LAMAL130209)",
+      "id": "oyFVetKzv56",
+      "displayName": "CL ດຣ ສຸກັນ (LAMAL130209)",
+      "coordinates": "[104.99094,16.67409]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.228",
+          "created": "2017-12-05T03:52:10.228",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຄຳດີ ໄຊຍະສອນ (LAMAL140119)",
+      "id": "gqkgRSwulZ4",
+      "displayName": "PH ຄຳດີ ໄຊຍະສອນ (LAMAL140119)",
+      "coordinates": "[106.42344,15.71328]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.237",
+          "created": "2017-12-05T03:52:10.237",
+          "value": "Saravane_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ບຸນທໍ (LAMAL140503)",
+      "id": "InGNsC89zUr",
+      "displayName": "PH ບຸນທໍ (LAMAL140503)",
+      "coordinates": "[106.02491,15.75955]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.238",
+          "created": "2017-12-05T03:52:10.238",
+          "value": "Vapy_14_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "PH ຈັນສົດ (LAMAL130229)",
+      "id": "rtUI1qeIkO7",
+      "displayName": "PH ຈັນສົດ (LAMAL130229)",
+      "coordinates": "[104.96152,16.75001]",
+      "attributeValues": [
+        {
+          "lastUpdated": "2017-12-05T03:52:10.233",
+          "created": "2017-12-05T03:52:10.233",
+          "value": "Outhoumphone_13_PPM",
+          "attribute": { "id": "gSL5sQyjxfP" }
+        }
+      ]
+    }
+  ]
+}

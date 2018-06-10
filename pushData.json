@@ -1,0 +1,239 @@
+{
+  "httpStatus": "OK",
+  "httpStatusCode": 200,
+  "status": "OK",
+  "message": "Import was successful.",
+  "response": {
+    "responseType": "ImportSummaries",
+    "status": "SUCCESS",
+    "imported": 0,
+    "updated": 126,
+    "deleted": 0,
+    "ignored": 0,
+    "importOptions": {
+      "idSchemes": {},
+      "dryRun": false,
+      "async": false,
+      "importStrategy": "CREATE",
+      "mergeMode": "REPLACE",
+      "reportMode": "FULL",
+      "skipExistingCheck": false,
+      "sharing": false,
+      "skipNotifications": false,
+      "datasetAllowsPeriods": false,
+      "strictPeriods": false,
+      "strictCategoryOptionCombos": false,
+      "strictAttributeOptionCombos": false,
+      "strictOrganisationUnits": false,
+      "requireCategoryOptionCombo": false,
+      "requireAttributeOptionCombo": false,
+      "skipPatternValidation": false
+    },
+    "importSummaries": [
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "FacobR53sIA",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/FacobR53sIA"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "BDRa4IkIZcc",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/BDRa4IkIZcc"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "Fqminbc95sE",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/Fqminbc95sE"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "IpdwLX6gFia",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/IpdwLX6gFia"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "vLFy3Bb8XCT",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/vLFy3Bb8XCT"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "VPbpuK5hUGr",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/VPbpuK5hUGr"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "YuQObbz0ToH",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/YuQObbz0ToH"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "C70F47nNmzz",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/C70F47nNmzz"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "mrfI7dMhnbf",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/mrfI7dMhnbf"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "NxHkRvEGr1P",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/NxHkRvEGr1P"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "YTd64yZNrfi",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/YTd64yZNrfi"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "FeyuKIyZiTX",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/FeyuKIyZiTX"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "JqCbbycUSuv",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/JqCbbycUSuv"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "CPGbXScZNhv",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/CPGbXScZNhv"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 6,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "QSPt4wF4tOT",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/QSPt4wF4tOT"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "AOy8msuYs0p",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/AOy8msuYs0p"
+      },
+      {
+        "responseType": "ImportSummary",
+        "status": "SUCCESS",
+        "importCount": {
+          "imported": 0,
+          "updated": 9,
+          "ignored": 0,
+          "deleted": 0
+        },
+        "reference": "nsUXZgOQ4iS",
+        "href": "https://dhis2.asia/laohmis_dev/api/events/nsUXZgOQ4iS"
+      }
+    ]
+  }
+}

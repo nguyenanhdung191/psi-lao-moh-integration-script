@@ -1,60 +1,102 @@
 {
-    "psi": {
-        "baseUrl": "https://sandbox.psi-mis.org",
-        "username": "username",
-        "password": "password",
-        "sinceDays": 20
-    },
+  "psi": {
+    "baseUrl": "https://sandbox.psi-mis.org",
+    "username": "dung",
+    "password": "ABCD@@1234",
+    "sinceDays": 400
+  },
 
-    "hmis": {
-        "baseUrl": "https://hispvn.org/hmislao27",
-        "username": "username",
-        "password": "password"
-    },
+  "hmis": {
+    "baseUrl": "https://dhis2.asia/laohmis_dev",
+    "username": "hoang",
+    "password": "ABCD@@1234"
+  },
 
-    "program": {
-        "RjBwXyc5I66": "HcvwbpXhY0o"
-    },
+  "program": {
+    "RjBwXyc5I66": "VTiOn7wKC4Q"
+  },
 
-    "programStage": {
-        "aRUlSh6oMSX": "DdnprMIfVj0"
-    },
+  "programStage": {
+    "aRUlSh6oMSX": "HVOPHnaZngk"
+  },
 
-    "optionSets": {
-        "ZpV2Hs9EGnC": {
-            "Male": "M",
-            "Female": "F"
-        },
-        "ea2b8AQtC4O": {
-            "Pf": "1",
-            "Pv": "2",
-            "Mixed": "3",
-            "Negative": "0"
-        },
-        "cAtdZHwrH2M": {
-            "ACT 6x1": "ACT61",
-            "ACT 6x2": "ACT62",
-            "ACT 6x3": "ACT63",
-            "ACT 6x4": "ACT64",
-            "Combined blister": "ACT64"
-        }
+  "values": {
+    "ea2b8AQtC4O": {
+      "Pf": "true",
+      "Pv": "true",
+      "Mixed": "true"
     },
-
-    "deMapping": {
-        "qQngeCbT4uI": {
-            "mapping": "bNyxHEhuVFv"
-        },
-        "lNcuFJPKhp9": {
-            "mapping": "lwV5wLG2MtM",
-            "optionSet": "ZpV2Hs9EGnC"
-        },
-        "FPNbkUi9D55": {
-            "mapping": "hluJFOz6vA7",
-            "optionSet": "ea2b8AQtC4O"
-        },
-        "TzL693oH3D9": {
-            "mapping": "USw3wrKAvX1",
-            "optionSet": "cAtdZHwrH2M"
-        }
+    "cAtdZHwrH2M": {
+      "ACT 6x1": "Treated",
+      "ACT 6x2": "Treated",
+      "ACT 6x3": "Treated",
+      "ACT 6x4": "Treated",
+      "Referred ACT stockout": "Refer"
     }
+  },
+
+  "optionSets": {
+    "ZpV2Hs9EGnC": {
+      "Male": "M",
+      "Female": "F"
+    },
+    "ea2b8AQtC4O": {
+      "Pf": "P.F",
+      "Pv": "P.V",
+      "Mixed": "Mix",
+      "Negative": "Negative (-)"
+    },
+    "cAtdZHwrH2M": {
+      "ACT 6x1": "ACT 6x1",
+      "ACT 6x2": "ACT 6x2",
+      "ACT 6x3": "ACT 6x3",
+      "ACT 6x4": "ACT 6x4",
+      "Combined blister": "ACT 6x4"
+    }
+  },
+
+  "deMapping": {
+    "qQngeCbT4uI": [
+      {
+        "mapping": "zDPvXY6h4JN"
+      }
+    ],
+    "lNcuFJPKhp9": [
+      {
+        "mapping": "CC9BpgSQbfh",
+        "optionSet": "ZpV2Hs9EGnC"
+      }
+    ],
+    "FPNbkUi9D55": [
+      {
+        "mapping": "VstbDPVvaQZ",
+        "optionSet": "ea2b8AQtC4O"
+      },
+      {
+        "mapping": "jU51HPBjfQL",
+        "value": "ea2b8AQtC4O"
+      }
+    ],
+    "TzL693oH3D9": [
+      {
+        "mapping": "njwrUHsT0yg",
+        "optionSet": "cAtdZHwrH2M"
+      },
+      {
+        "mapping": "iboStpxyG6j",
+        "value": "cAtdZHwrH2M"
+      }
+    ]
+  },
+
+  "customValues": [
+    {
+      "deId": "RtfqjYAlhsa",
+      "value": "true"
+    },
+    {
+      "deId": "R5asQPlBybE",
+      "value": "true"
+    }
+  ]
 }

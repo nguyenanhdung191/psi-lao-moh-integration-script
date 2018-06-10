@@ -1,0 +1,60 @@
+{
+    "psi": {
+        "baseUrl": "https://sandbox.psi-mis.org",
+        "username": "username",
+        "password": "password",
+        "sinceDays": 20
+    },
+
+    "hmis": {
+        "baseUrl": "https://hispvn.org/hmislao27",
+        "username": "username",
+        "password": "password"
+    },
+
+    "program": {
+        "RjBwXyc5I66": "HcvwbpXhY0o"
+    },
+
+    "programStage": {
+        "aRUlSh6oMSX": "DdnprMIfVj0"
+    },
+
+    "optionSets": {
+        "ZpV2Hs9EGnC": {
+            "Male": "M",
+            "Female": "F"
+        },
+        "ea2b8AQtC4O": {
+            "Pf": "1",
+            "Pv": "2",
+            "Mixed": "3",
+            "Negative": "0"
+        },
+        "cAtdZHwrH2M": {
+            "ACT 6x1": "ACT61",
+            "ACT 6x2": "ACT62",
+            "ACT 6x3": "ACT63",
+            "ACT 6x4": "ACT64",
+            "Combined blister": "ACT64"
+        }
+    },
+
+    "deMapping": {
+        "qQngeCbT4uI": {
+            "mapping": "bNyxHEhuVFv"
+        },
+        "lNcuFJPKhp9": {
+            "mapping": "lwV5wLG2MtM",
+            "optionSet": "ZpV2Hs9EGnC"
+        },
+        "FPNbkUi9D55": {
+            "mapping": "hluJFOz6vA7",
+            "optionSet": "ea2b8AQtC4O"
+        },
+        "TzL693oH3D9": {
+            "mapping": "USw3wrKAvX1",
+            "optionSet": "cAtdZHwrH2M"
+        }
+    }
+}
