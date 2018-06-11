@@ -19,10 +19,8 @@ const moment = require("moment");
 
   let data = await getEvents(startDate, endDate);
   let orgs = await getOrgs();
-  // let pendingData = filterStatus(data, "Pendding"); //Pendding
-  let pendingData = require("./pendingData.json");
+  let pendingData = filterStatus(data, "Pendding"); //Pendding
   let pushD = transform(pendingData, orgs);
-  console.log(JSON.stringify(pushD));
-  // let response = await pushData(pushD);
-  // updateStatus(response, pendingData);
+  let response = await pushData(pushD);
+  updateStatus(response, pendingData);
 })();
